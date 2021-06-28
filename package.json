@@ -1,0 +1,43 @@
+{
+  "name": "tookone",
+  "version": "1.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Digimonk Technologies",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "cron": "^1.8.2",
+    "crypto": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-mongo-sanitize": "^2.0.1",
+    "express-rate-limit": "^5.2.3",
+    "file-type": "^16.1.0",
+    "helmet": "^4.2.0",
+    "html-to-text": "^6.0.0",
+    "json-2-csv": "^3.13.0",
+    "jsonwebtoken": "^8.5.1",
+    "mime": "^2.5.2",
+    "mongodb": "^3.6.9",
+    "mongoose": "^5.11.8",
+    "morgan": "^1.10.0",
+    "nodemailer": "^6.4.10",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "request": "^2.88.2",
+    "socket.io": "^2.3.0",
+    "stringquery": "^1.0.8",
+    "validator": "^13.1.1",
+    "xss-clean": "^0.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.4"
+  }
+}

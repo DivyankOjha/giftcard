@@ -1,0 +1,180 @@
+{
+  "products": [
+    {
+      "code": "tTV",
+      "name": "Test Voucher",
+      "state": "LIVE",
+      "currency_code": "GBP",
+      "categories": ["beauty-and-lifestyle", "booksellers"],
+      "countries": ["GB", "DE"],
+      "availability": "realtime",
+      "denomination_type": "open",
+      "available_denominations": ["5.00", "10.00", "50.00"]
+    },
+    {
+      "code": "UST",
+      "name": "US Test Voucher",
+      "state": "LIVE",
+      "currency_code": "US",
+      "categories": ["beauty-and-lifestyle", "booksellers"],
+      "countries": ["US", "AE"],
+      "availability": "realtime",
+      "denomination_type": "open",
+      "available_denominations": ["5.00", "10.00", "50.00"]
+    },
+    {
+      "code": "UST",
+      "name": "US Test Voucher",
+      "state": "LIVE",
+      "currency_code": "US",
+      "categories": ["beauty-and-lifestyle", "booksellers"],
+      "countries": ["US", "AE"],
+      "availability": "realtime",
+      "denomination_type": "open",
+      "available_denominations": ["5.00", "10.00", "50.00"]
+    },
+    {
+      "code": "UST",
+      "name": "US Test Voucher",
+      "state": "LIVE",
+      "currency_code": "US",
+      "categories": ["beauty-and-lifestyle", "booksellers"],
+      "countries": ["US", "AE"],
+      "availability": "realtime",
+      "denomination_type": "open",
+      "available_denominations": ["5.00", "10.00", "50.00"]
+    },
+    {
+      "code": "UST",
+      "name": "US Test Voucher",
+      "state": "LIVE",
+      "currency_code": "US",
+      "categories": ["beauty-and-lifestyle", "booksellers"],
+      "countries": ["US", "AE"],
+      "availability": "realtime",
+      "denomination_type": "open",
+      "available_denominations": ["5.00", "10.00", "50.00"]
+    },
+    {
+      "code": "UST",
+      "name": "US Test Voucher",
+      "state": "LIVE",
+      "currency_code": "US",
+      "categories": ["beauty-and-lifestyle", "booksellers"],
+      "countries": ["US", "AE"],
+      "availability": "realtime",
+      "denomination_type": "open",
+      "available_denominations": ["5.00", "10.00", "50.00"]
+    },
+    {
+      "code": "UST",
+      "name": "US Test Voucher",
+      "state": "LIVE",
+      "currency_code": "US",
+      "categories": ["beauty-and-lifestyle", "booksellers"],
+      "countries": ["US", "AE"],
+      "availability": "realtime",
+      "denomination_type": "open",
+      "available_denominations": ["5.00", "10.00", "50.00"]
+    },
+    {
+      "code": "UST",
+      "name": "US Test Voucher",
+      "state": "LIVE",
+      "currency_code": "US",
+      "categories": ["beauty-and-lifestyle", "booksellers"],
+      "countries": ["US", "AE"],
+      "availability": "realtime",
+      "denomination_type": "open",
+      "available_denominations": ["5.00", "10.00", "50.00"]
+    },
+    {
+      "code": "UST",
+      "name": "US Test Voucher",
+      "state": "LIVE",
+      "currency_code": "US",
+      "categories": ["beauty-and-lifestyle", "booksellers"],
+      "countries": ["US", "AE"],
+      "availability": "realtime",
+      "denomination_type": "open",
+      "available_denominations": ["5.00", "10.00", "50.00"]
+    },
+    {
+      "code": "UST",
+      "name": "US Test Voucher",
+      "state": "LIVE",
+      "currency_code": "US",
+      "categories": ["beauty-and-lifestyle", "booksellers"],
+      "countries": ["US", "AE"],
+      "availability": "realtime",
+      "denomination_type": "open",
+      "available_denominations": ["5.00", "10.00", "50.00"]
+    },
+    {
+      "code": "UST",
+      "name": "US Test Voucher",
+      "state": "LIVE",
+      "currency_code": "US",
+      "categories": ["beauty-and-lifestyle", "booksellers"],
+      "countries": ["US", "AE"],
+      "availability": "realtime",
+      "denomination_type": "open",
+      "available_denominations": ["5.00", "10.00", "50.00"]
+    },
+    {
+      "code": "UST",
+      "name": "US Test Voucher",
+      "state": "LIVE",
+      "currency_code": "US",
+      "categories": ["beauty-and-lifestyle", "booksellers"],
+      "countries": ["US", "AE"],
+      "availability": "realtime",
+      "denomination_type": "open",
+      "available_denominations": ["5.00", "10.00", "50.00"]
+    },
+    {
+      "code": "UST",
+      "name": "US Test Voucher",
+      "state": "LIVE",
+      "currency_code": "US",
+      "categories": ["beauty-and-lifestyle", "booksellers"],
+      "countries": ["US", "AE"],
+      "availability": "realtime",
+      "denomination_type": "open",
+      "available_denominations": ["5.00", "10.00", "50.00"]
+    },
+    {
+      "code": "UST",
+      "name": "US Test Voucher",
+      "state": "LIVE",
+      "currency_code": "US",
+      "categories": ["beauty-and-lifestyle", "booksellers"],
+      "countries": ["US", "AE"],
+      "availability": "realtime",
+      "denomination_type": "open",
+      "available_denominations": ["5.00", "10.00", "50.00"]
+    },
+    {
+      "code": "UST",
+      "name": "US Test Voucher",
+      "state": "LIVE",
+      "currency_code": "US",
+      "categories": ["beauty-and-lifestyle", "booksellers"],
+      "countries": ["US", "AE"],
+      "availability": "realtime",
+      "denomination_type": "open",
+      "available_denominations": ["5.00", "10.00", "50.00"]
+    },
+    {
+      "code": "UST",
+      "name": "US Test Voucher",
+      "state": "LIVE",
+      "currency_code": "US",
+      "categories": ["beauty-and-lifestyle", "booksellers"],
+      "countries": ["US", "AE"],
+      "availability": "realtime",
+      "denomination_type": "open",
+      "available_denominations": ["5.00", "10.00", "50.00"]
+    }
+  ]
+}
